@@ -3,3 +3,5 @@ api-gateway/volume-data/
 
 # Ignore frontend folder
 microservices-shop-frontend-master/
+
+.idea/
