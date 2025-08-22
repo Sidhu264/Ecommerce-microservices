@@ -1,0 +1,5 @@
+api-gateway/volume-data/
+*.sock
+
+# Ignore frontend folder
+microservices-shop-frontend-master/
